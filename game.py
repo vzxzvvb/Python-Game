@@ -2,6 +2,8 @@
 
 # 코드수정확인용
 
+# 코드수정이 되었습니다.
+
 import random
 num1 = int(input("하나를 선택하세요 : 가위(0), 바위(1), 보(2) :"))
 num2 = random.randrange(0, 3)
